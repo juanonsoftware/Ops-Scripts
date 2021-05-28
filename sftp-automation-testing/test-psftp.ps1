@@ -1,4 +1,8 @@
-$server = "137.116.119.169"
+# Created	: 20/05/2021
+# Source	: https://github.com/juanonsoftware/Ops-Scripts/tree/master/sftp-automation-testing
+# Purpose	: Automatic upload files via SFTP
+
+$server = "YOUR SERVER IP"
 $userName = "sftpu1"
 $password = "Abc123456"
 $batchFile = ".\test-psftp.sftp"
