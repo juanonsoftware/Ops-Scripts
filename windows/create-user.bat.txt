@@ -1,0 +1,4 @@
+REM To add an account with username = gcptest and password = Abc@123456
+-------------------
+
+net user gcptest Abc@123456 /add /passwordchg:no
