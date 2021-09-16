@@ -1,0 +1,6 @@
+open YOUR_SERVER
+user USER_NAME PASSWORD
+cd /PATH
+prompt n
+mput D:\Temp\*.CSV
+bye
